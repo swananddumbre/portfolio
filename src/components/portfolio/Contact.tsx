@@ -1,5 +1,5 @@
 import { useState, type FormEvent } from "react";
-import { Github, Mail, MessageCircle, Phone, Send } from "lucide-react";
+import { Github, Linkedin, Mail, MessageCircle, Phone, Send } from "lucide-react";
 import { Reveal, SectionHeading } from "./Reveal";
 import { contact } from "@/lib/portfolio-data";
 
@@ -8,6 +8,7 @@ const channels = [
   { icon: Phone, label: "Call Me", value: contact.phone, href: contact.phoneHref },
   { icon: MessageCircle, label: "WhatsApp", value: "Chat on WhatsApp", href: contact.whatsapp },
   { icon: Github, label: "GitHub", value: "swananddumbre", href: contact.github },
+  { icon: Linkedin, label: "LinkedIn", value: "swanand-dumbre-80747a378", href: contact.linkedin },
 ];
 
 export function Contact() {

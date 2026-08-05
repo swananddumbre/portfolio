@@ -14,6 +14,7 @@ export const contact = {
   phoneHref: "tel:+918668398669",
   whatsapp: "https://wa.me/918668398669",
   github: "https://github.com/swananddumbre",
+  linkedin: "https://www.linkedin.com/in/swanand-dumbre-80747a378",
 };
 
 export type Project = {
