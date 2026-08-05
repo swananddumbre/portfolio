@@ -13,7 +13,7 @@ export const contact = {
   phone: "8668398669",
   phoneHref: "tel:+918668398669",
   whatsapp: "https://wa.me/918668398669",
-  github: "https://github.com/Swanand2005",
+  github: "https://github.com/swananddumbre",
 };
 
 export type Project = {

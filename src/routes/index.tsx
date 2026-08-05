@@ -35,7 +35,7 @@ export const Route = createFileRoute("/")({
           jobTitle: "Data Science Enthusiast",
           email: "mailto:swananddumbre10@gmail.com",
           telephone: "+918668398669",
-          sameAs: ["https://github.com/Swanand2005"],
+          sameAs: ["https://github.com/swananddumbre"],
           alumniOf: "Savitribai Phule Pune University",
         }),
       },

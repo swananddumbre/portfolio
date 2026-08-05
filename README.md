@@ -42,7 +42,7 @@ SOCIAL LINKS
 
 ========================================
 
- GitHub: https://github.com/Swanand2005
+ GitHub: https://github.com/swananddumbre
 
 Email: swananddumbre10@gmail.com 
 
@@ -102,7 +102,7 @@ CONTACT SECTION ========================================
 
  Phone: 8668398669
 
- GitHub: SwanandDumbre LinkedIn: Swanand Dumbree Create a professional contact form with: - Name - Email - Message - Send Message button If no backend/email service is configured, do not pretend the form sends emails. Instead provide a clear mailto fallback or make the form ready for future integration. ======================================== FOOTER ======================================== Footer: "Swanand Dumbre" "Data Science Enthusiast" "© 2026 Swanand Dumbre. All rights reserved." Social icons: GitHub LinkedIn Email Add: "Built with passion for technology & data." ======================================== 
+ GitHub: swananddumbre LinkedIn: Swanand Dumbree Create a professional contact form with: - Name - Email - Message - Send Message button If no backend/email service is configured, do not pretend the form sends emails. Instead provide a clear mailto fallback or make the form ready for future integration. ======================================== FOOTER ======================================== Footer: "Swanand Dumbre" "Data Science Enthusiast" "© 2026 Swanand Dumbre. All rights reserved." Social icons: GitHub LinkedIn Email Add: "Built with passion for technology & data." ======================================== 
 
 ANIMATIONS 
 

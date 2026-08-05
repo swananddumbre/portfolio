@@ -7,7 +7,7 @@ const channels = [
   { icon: Mail, label: "Email Me", value: contact.email, href: `mailto:${contact.email}` },
   { icon: Phone, label: "Call Me", value: contact.phone, href: contact.phoneHref },
   { icon: MessageCircle, label: "WhatsApp", value: "Chat on WhatsApp", href: contact.whatsapp },
-  { icon: Github, label: "GitHub", value: "Swanand2005", href: contact.github },
+  { icon: Github, label: "GitHub", value: "swananddumbre", href: contact.github },
 ];
 
 export function Contact() {
